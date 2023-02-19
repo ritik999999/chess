@@ -1,0 +1,26 @@
+.outer_box1{
+ height: 820px;
+ width: 820px;
+ border:solid 0px black;
+ margin: auto;
+}
+.line_box{
+    height: 100px;
+    width: 820px;
+    border:solid 0px black;
+
+}
+.white{
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+}
+.black{
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+    background-color: black;
+    float: left;
+}
